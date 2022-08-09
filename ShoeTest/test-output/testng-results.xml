@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="32" passed="30" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-08T18:56:53 GMT-04:00" name="Funtional tests" finished-at="2022-08-08T18:58:14 GMT-04:00" duration-ms="80270">
+    <groups>
+    </groups>
+    <test started-at="2022-08-08T18:56:53 GMT-04:00" name="Shoe store" finished-at="2022-08-08T18:58:14 GMT-04:00" duration-ms="80270">
+      <class name="app.test.main.TestingMonthFilter">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:03 GMT-04:00" name="openBrowser" finished-at="2022-08-08T18:58:05 GMT-04:00" duration-ms="2235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:05 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:06 GMT-04:00" duration-ms="770" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:06 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:06 GMT-04:00" duration-ms="642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[February]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:06 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:07 GMT-04:00" duration-ms="611" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:07 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:08 GMT-04:00" duration-ms="690" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[April]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:08 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:08 GMT-04:00" duration-ms="662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:08 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:09 GMT-04:00" duration-ms="675" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:09 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:10 GMT-04:00" duration-ms="747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:10 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:10 GMT-04:00" duration-ms="584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:10 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:11 GMT-04:00" duration-ms="588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[September]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:11 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:12 GMT-04:00" duration-ms="642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[October]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC1_SelectingMonth(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:12 GMT-04:00" name="TS4_MonthFilter_TC1_SelectingMonth" data-provider="testdata_TS4_MonthFilter_TC1_SelectingMonth" finished-at="2022-08-08T18:58:12 GMT-04:00" duration-ms="609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[November]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC1_SelectingMonth -->
+        <test-method signature="TS4_MonthFilter_TC2_SelectingAllShoesOption(java.lang.String)[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:12 GMT-04:00" name="TS4_MonthFilter_TC2_SelectingAllShoesOption" data-provider="testdata_TS4_MonthFilter_TC2_SelectingAllShoesOption" finished-at="2022-08-08T18:58:14 GMT-04:00" duration-ms="1421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[January February March April May June July August September October November]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS4_MonthFilter_TC2_SelectingAllShoesOption -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:app.test.main.TestingMonthFilter@51e69659]" started-at="2022-08-08T18:58:14 GMT-04:00" name="closeBrowser" finished-at="2022-08-08T18:58:14 GMT-04:00" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- app.test.main.TestingMonthFilter -->
+      <class name="app.test.main.TestingFieldPromoCode">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:app.test.main.TestingFieldPromoCode@71a8adcf]" started-at="2022-08-08T18:57:24 GMT-04:00" name="openBrowser" finished-at="2022-08-08T18:57:27 GMT-04:00" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="TS2_PromCode_TC1_Emptyfield()[pri:0, instance:app.test.main.TestingFieldPromoCode@71a8adcf]" started-at="2022-08-08T18:57:27 GMT-04:00" name="TS2_PromCode_TC1_Emptyfield" finished-at="2022-08-08T18:57:27 GMT-04:00" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS2_PromCode_TC1_Emptyfield -->
+        <test-method signature="TS2_PromCode_TC3_NegativeDataInField()[pri:0, instance:app.test.main.TestingFieldPromoCode@71a8adcf]" started-at="2022-08-08T18:57:27 GMT-04:00" name="TS2_PromCode_TC3_NegativeDataInField" finished-at="2022-08-08T18:57:28 GMT-04:00" duration-ms="562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS2_PromCode_TC3_NegativeDataInField -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:app.test.main.TestingFieldPromoCode@71a8adcf]" started-at="2022-08-08T18:57:28 GMT-04:00" name="closeBrowser" finished-at="2022-08-08T18:57:28 GMT-04:00" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- app.test.main.TestingFieldPromoCode -->
+      <class name="app.test.main.TestingSearchBybrand">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:57:28 GMT-04:00" name="openBrowser" finished-at="2022-08-08T18:57:30 GMT-04:00" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="TS3_ChooseBrand_TC1_Emptyfield()[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:57:30 GMT-04:00" name="TS3_ChooseBrand_TC1_Emptyfield" finished-at="2022-08-08T18:57:31 GMT-04:00" duration-ms="473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS3_ChooseBrand_TC1_Emptyfield -->
+        <test-method signature="TS3_ChooseBrand_TC2_SearchByBrandNolist(java.lang.String)[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:57:31 GMT-04:00" name="TS3_ChooseBrand_TC2_SearchByBrandNolist" data-provider="testdata_TS3_ChooseBrand_TC2_SearchByBrandNolist" finished-at="2022-08-08T18:57:42 GMT-04:00" duration-ms="10885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7 For All Mankind®]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS3_ChooseBrand_TC2_SearchByBrandNolist -->
+        <test-method signature="TS3_ChooseBrand_TC2_SearchByBrandNolist(java.lang.String)[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:57:42 GMT-04:00" name="TS3_ChooseBrand_TC2_SearchByBrandNolist" data-provider="testdata_TS3_ChooseBrand_TC2_SearchByBrandNolist" finished-at="2022-08-08T18:57:52 GMT-04:00" duration-ms="10878" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Acorn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS3_ChooseBrand_TC2_SearchByBrandNolist -->
+        <test-method signature="TS3_ChooseBrand_TC3_SearchByBrandWithlist(java.lang.String)[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:57:52 GMT-04:00" name="TS3_ChooseBrand_TC3_SearchByBrandWithlist" data-provider="testData_TS3_ChooseBrand_TC3_SearchByBrandWithlist" finished-at="2022-08-08T18:57:54 GMT-04:00" duration-ms="1071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jimmy Choo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS3_ChooseBrand_TC3_SearchByBrandWithlist -->
+        <test-method signature="TS3_ChooseBrand_TC3_SearchByBrandWithlist(java.lang.String)[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:57:54 GMT-04:00" name="TS3_ChooseBrand_TC3_SearchByBrandWithlist" data-provider="testData_TS3_ChooseBrand_TC3_SearchByBrandWithlist" finished-at="2022-08-08T18:57:54 GMT-04:00" duration-ms="903" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Brian Atwood]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS3_ChooseBrand_TC3_SearchByBrandWithlist -->
+        <test-method signature="TS3_ChooseBrand_TC4_DropDownDataValidation(java.lang.String)[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:57:55 GMT-04:00" name="TS3_ChooseBrand_TC4_DropDownDataValidation" data-provider="testData_TS3_ChooseBrand_TC4_DropDownDataValidation" finished-at="2022-08-08T18:58:02 GMT-04:00" duration-ms="7160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select Brand
+7 For All Mankind®
+Acorn
+Aetrex
+Ahnu
+Alegria
+Alexander McQueen
+Alexandre Birman
+Alberto Fermani
+Alberto Gozzi
+Alice + Olivia
+Andre Assous
+Anyi Lu
+ALDO
+Aquatalia by Marvin K
+Aravon
+Arche
+Ariat
+Ash
+ASICS®
+Athena Alexander
+Attilio Giusti Leombruni
+B Brian Atwood
+Badgley Mischka
+BC Footwear
+BCBGeneration
+BCBGMAXAZRIA
+Bed Stu
+Bernardo
+Betsey Johnson
+Biala
+Bionda Castana
+Birkenstock
+Birkis®
+Blondo
+Bogs
+Børn
+Boutique 9
+BP.
+Brian Atwood
+Brooks
+Burberry
+Callisto
+Calvin Klein
+Charles by Charles David
+Charlotte Olympia
+Chinese Laundry
+Chloé
+Civic Duty
+Clarks®
+Classiques Entier®
+COACH
+Cobb Hill
+Cole Haan
+Converse
+Cordani
+Corso Como
+Cushe
+Dana Davis
+Dansko
+Delman
+Dezario
+Diane von Furstenberg
+DKNYC
+DolceGabbana
+Dolce Vita
+Donald J Pliner
+Dr. Martens
+DV by Dolce Vita
+Earth®
+Earthies®
+ECCO
+Eileen Fisher
+Elie Tahari
+Elizabeth and James
+Emilio Pucci
+Enzo Angiolini
+Eric Michael
+Ettore Masotti
+Everybody
+Fendi
+Fergie
+Fidji
+Finn Comfort
+FitFlop
+Flounce
+Franco Sarto
+French Sole
+Frye
+Gentle Souls
+Geox
+Giuseppe Zanotti
+Giesswein
+Glint
+Golden Goose
+Gucci
+GUESS
+Haflinger
+Halogen®
+Havaianas
+Helle Comfort
+Helly Hansen
+Hinge
+House of Harlow 1960
+Hunter
+Icon Footwear
+Isaac Mizrahi New York
+Isola
+Ivanka Trump
+J. Reneé
+Jack Rogers
+Jacques Levine
+Jambu
+Jason Wu
+Jeffrey Campbell
+Jessica Simpson
+Jimmy Choo
+Joan David
+Joes
+Josef Seibel
+Juicy Couture
+K Jacques St. Tropez
+Kalso Earth®
+Kamik
+kate spade new york
+Keds®
+Keen
+Kelsi Dagger
+Kickers
+Kork-Ease
+KORS Michael Kors
+L.A.M.B.
+L.K. Bennett
+La Canadienne
+Lanvin
+Le Chameau
+Lucky Brand
+Manolo Blahnik
+MARC BY MARC JACOBS
+Mark James by Badgley Mischka
+Martino
+Matiko
+Matisse
+Matt Bernson
+Me Too
+Mel by Melissa
+Mephisto
+Merrell
+MIA
+MICHAEL Michael Kors
+Minnetonka
+Miss Trish
+Miu Miu
+Miz Mooz
+Mizuno
+MM6 Maison Martin Margiela
+Moschino Cheap Chic
+Munro
+N.Y.L.A.
+Naot
+Naturalizer
+Naughty Monkey
+Naya
+Nelly Venturi
+New Balance
+Nicholas Kirkwood
+Nike
+Nina
+Nine West
+North Face
+Old Gringo
+OluKai
+Onex
+Oscar de la Renta
+OTBT
+Patagonia
+Paul Green
+Pedro Garcia
+Pelle Moda
+PIKOLINOS
+Poetic Licence
+Pollini
+Pour la Victoire
+Prada
+PUMA
+Rachel Roy
+Rachel Zoe
+rag bone
+Rainbow
+Ralph Lauren Collection
+Rebecca Minkoff
+RED Valentino
+Reed Krakoff
+Reef
+REPORT
+Robert Clergerie
+Robert Zur
+Romika
+Ron White
+Rosegold
+Roxy
+Saint Laurent
+Salvatore Ferragamo
+Sam Edelman
+Saucony
+Sbicca
+See by Chloé
+Sergio Rossi
+Seychelles
+Skemo
+Söfft
+Softspots
+SoftWalk®
+Sole Goddess®
+Sole Society
+Sorel
+Sperry Top-Sider®
+Splendid
+Stella McCartney
+Steve Madden
+Steven by Steve Madden
+Stuart Weitzman
+Superga
+Sweet Ballerina
+Tabitha Simmons
+Taccetti
+Tecnica®
+Ted Baker London
+Teva
+The North Face
+Tildon
+Think!
+Timberland
+TKEES
+Tods
+TOMS
+Topshop
+Tory Burch
+Tracy Reese
+Trotters
+Trouvé
+Truth or Dare by Madonna
+Tsubo
+UGG® Australia
+Valentino
+VANELi
+Vans
+VC Signature
+Vera Wang
+Via Spiga
+Vince
+Vince Camuto
+Yves Saint Laurent
+Zadig Voltaire
+7 For All Mankind®
+Acorn
+Aetrex
+Ahnu
+Alegria
+Alexander McQueen
+Alexandre Birman
+Alberto Fermani
+Alberto Gozzi
+Alice + Olivia
+Andre Assous
+Anyi Lu
+ALDO
+Aquatalia by Marvin K
+Aravon
+Arche
+Ariat
+Ash
+ASICS®
+Athena Alexander
+Attilio Giusti Leombruni
+B Brian Atwood
+Badgley Mischka
+BC Footwear
+BCBGeneration
+BCBGMAXAZRIA
+Bed Stu
+Bernardo
+Betsey Johnson
+Biala
+Bionda Castana
+Birkenstock
+Birkis®
+Blondo
+Bogs
+Børn
+Boutique 9
+BP.
+Brian Atwood
+Brooks
+Burberry
+Callisto
+Calvin Klein
+Charles by Charles David
+Charlotte Olympia
+Chinese Laundry
+Chloé
+Civic Duty
+Clarks®
+Classiques Entier®
+COACH
+Cobb Hill
+Cole Haan
+Converse
+Cordani
+Corso Como
+Cushe
+Dana Davis
+Dansko
+Delman
+Dezario
+Diane von Furstenberg
+DKNYC
+DolceGabbana
+Dolce Vita
+Donald J Pliner
+Dr. Martens
+DV by Dolce Vita
+Earth®
+Earthies®
+ECCO
+Eileen Fisher
+Elie Tahari
+Elizabeth and James
+Emilio Pucci
+Enzo Angiolini
+Eric Michael
+Ettore Masotti
+Everybody
+Fendi
+Fergie
+Fidji
+Finn Comfort
+FitFlop
+Flounce
+Franco Sarto
+French Sole
+Frye
+Gentle Souls
+Geox
+Giuseppe Zanotti
+Giesswein
+Glint
+Golden Goose
+Gucci
+GUESS
+Haflinger
+Halogen®
+Havaianas
+Helle Comfort
+Helly Hansen
+Hinge
+House of Harlow 1960
+Hunter
+Icon Footwear
+Isaac Mizrahi New York
+Isola
+Ivanka Trump
+J. Reneé
+Jack Rogers
+Jacques Levine
+Jambu
+Jason Wu
+Jeffrey Campbell
+Jessica Simpson
+Jimmy Choo
+Joan David
+Joes
+Josef Seibel
+Juicy Couture
+K Jacques St. Tropez
+Kalso Earth®
+Kamik
+kate spade new york
+Keds®
+Keen
+Kelsi Dagger
+Kickers
+Kork-Ease
+KORS Michael Kors
+L.A.M.B.
+L.K. Bennett
+La Canadienne
+Lanvin
+Le Chameau
+Lucky Brand
+Manolo Blahnik
+MARC BY MARC JACOBS
+Mark James by Badgley Mischka
+Martino
+Matiko
+Matisse
+Matt Bernson
+Me Too
+Mel by Melissa
+Mephisto
+Merrell
+MIA
+MICHAEL Michael Kors
+Minnetonka
+Miss Trish
+Miu Miu
+Miz Mooz
+Mizuno
+MM6 Maison Martin Margiela
+Moschino Cheap Chic
+Munro
+N.Y.L.A.
+Naot
+Naturalizer
+Naughty Monkey
+Naya
+Nelly Venturi
+New Balance
+Nicholas Kirkwood
+Nike
+Nina
+Nine West
+North Face
+Old Gringo
+OluKai
+Onex
+Oscar de la Renta
+OTBT
+Patagonia
+Paul Green
+Pedro Garcia
+Pelle Moda
+PIKOLINOS
+Poetic Licence
+Pollini
+Pour la Victoire
+Prada
+PUMA
+Rachel Roy
+Rachel Zoe
+rag bone
+Rainbow
+Ralph Lauren Collection
+Rebecca Minkoff
+RED Valentino
+Reed Krakoff
+Reef
+REPORT
+Robert Clergerie
+Robert Zur
+Romika
+Ron White
+Rosegold
+Roxy
+Saint Laurent
+Salvatore Ferragamo
+Sam Edelman
+Saucony
+Sbicca
+See by Chloé
+Sergio Rossi
+Seychelles
+Skemo
+Söfft
+Softspots
+SoftWalk®
+Sole Goddess®
+Sole Society
+Sorel
+Sperry Top-Sider®
+Splendid
+Stella McCartney
+Steve Madden
+Steven by Steve Madden
+Stuart Weitzman
+Superga
+Sweet Ballerina
+Tabitha Simmons
+Taccetti
+Tecnica®
+Ted Baker London
+Teva
+The North Face
+Tildon
+Think!
+Timberland
+TKEES
+Tods
+TOMS
+Topshop
+Tory Burch
+Tracy Reese
+Trotters
+Trouvé
+Truth or Dare by Madonna
+Tsubo
+UGG® Australia
+Valentino
+VANELi
+Vans
+VC Signature
+Vera Wang
+Via Spiga
+Vince
+Vince Camuto
+Yves Saint Laurent
+Zadig Voltaire]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS3_ChooseBrand_TC4_DropDownDataValidation -->
+        <test-method signature="TS3_ChooseBrand_TC5_DropDownValueKeyboardAccesible(java.lang.String)[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:58:02 GMT-04:00" name="TS3_ChooseBrand_TC5_DropDownValueKeyboardAccesible" data-provider="testData_TS3_ChooseBrand_TC5_DropDownValueKeyboardAccesible" finished-at="2022-08-08T18:58:03 GMT-04:00" duration-ms="825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aetrex]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS3_ChooseBrand_TC5_DropDownValueKeyboardAccesible -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:app.test.main.TestingSearchBybrand@659499f1]" started-at="2022-08-08T18:58:03 GMT-04:00" name="closeBrowser" finished-at="2022-08-08T18:58:03 GMT-04:00" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- app.test.main.TestingSearchBybrand -->
+      <class name="app.test.main.TestingFieldEmail">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:56:53 GMT-04:00" name="openBrowser" finished-at="2022-08-08T18:56:57 GMT-04:00" duration-ms="3334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="TS1_Email_TC1_Emptyfield()[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:56:57 GMT-04:00" name="TS1_Email_TC1_Emptyfield" finished-at="2022-08-08T18:56:57 GMT-04:00" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC1_Emptyfield -->
+        <test-method signature="TS1_Email_TC2_PositiveDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:56:58 GMT-04:00" name="TS1_Email_TC2_PositiveDataInField" data-provider="testdata_TS1_Email_TC2_PositiveDataInField" finished-at="2022-08-08T18:56:59 GMT-04:00" duration-ms="772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testemail@domai.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC2_PositiveDataInField -->
+        <test-method signature="TS1_Email_TC2_PositiveDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:56:59 GMT-04:00" name="TS1_Email_TC2_PositiveDataInField" data-provider="testdata_TS1_Email_TC2_PositiveDataInField" finished-at="2022-08-08T18:56:59 GMT-04:00" duration-ms="602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test.email@domain.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC2_PositiveDataInField -->
+        <test-method signature="TS1_Email_TC2_PositiveDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:56:59 GMT-04:00" name="TS1_Email_TC2_PositiveDataInField" data-provider="testdata_TS1_Email_TC2_PositiveDataInField" finished-at="2022-08-08T18:57:00 GMT-04:00" duration-ms="589" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test.email@subdomain.email.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC2_PositiveDataInField -->
+        <test-method signature="TS1_Email_TC2_PositiveDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:00 GMT-04:00" name="TS1_Email_TC2_PositiveDataInField" data-provider="testdata_TS1_Email_TC2_PositiveDataInField" finished-at="2022-08-08T18:57:00 GMT-04:00" duration-ms="570" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test.email@email-dom.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC2_PositiveDataInField -->
+        <test-method signature="TS1_Email_TC2_PositiveDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:00 GMT-04:00" name="TS1_Email_TC2_PositiveDataInField" data-provider="testdata_TS1_Email_TC2_PositiveDataInField" finished-at="2022-08-08T18:57:01 GMT-04:00" duration-ms="554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test_firstname.lastname@email.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC2_PositiveDataInField -->
+        <test-method signature="TS1_Email_TC3_NegativeDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:01 GMT-04:00" name="TS1_Email_TC3_NegativeDataInField" data-provider="testdata_TS1_Email_TC3_NegativeDataInField" finished-at="2022-08-08T18:57:02 GMT-04:00" duration-ms="745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ @domain.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC3_NegativeDataInField -->
+        <test-method signature="TS1_Email_TC3_NegativeDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:02 GMT-04:00" name="TS1_Email_TC3_NegativeDataInField" data-provider="testdata_TS1_Email_TC3_NegativeDataInField" finished-at="2022-08-08T18:57:02 GMT-04:00" duration-ms="592" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test.domain.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC3_NegativeDataInField -->
+        <test-method signature="TS1_Email_TC3_NegativeDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:02 GMT-04:00" name="TS1_Email_TC3_NegativeDataInField" data-provider="testdata_TS1_Email_TC3_NegativeDataInField" finished-at="2022-08-08T18:57:13 GMT-04:00" duration-ms="10613" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@email@email.com]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='flash alert_danger']"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'Heamanths-MacBook-Pro.local', ip: '2601:cb:4002:f600:0:0:0:8c86%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae1cf77cba7d31be43f4eb385a87eefa, findElement {using=xpath, value=//div[@class='flash alert_danger']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/pw/4093ysp9371...}, goog:chromeOptions: {debuggerAddress: localhost:58277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:58277/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ae1cf77cba7d31be43f4eb385a87eefa]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='flash alert_danger']"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'Heamanths-MacBook-Pro.local', ip: '2601:cb:4002:f600:0:0:0:8c86%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae1cf77cba7d31be43f4eb385a87eefa, findElement {using=xpath, value=//div[@class='flash alert_danger']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/pw/4093ysp9371...}, goog:chromeOptions: {debuggerAddress: localhost:58277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:58277/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ae1cf77cba7d31be43f4eb385a87eefa
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+at app.test.main.TestingFieldEmail.TS1_Email_TC3_NegativeDataInField(TestingFieldEmail.java:84)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC3_NegativeDataInField -->
+        <test-method signature="TS1_Email_TC3_NegativeDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:13 GMT-04:00" name="TS1_Email_TC3_NegativeDataInField" data-provider="testdata_TS1_Email_TC3_NegativeDataInField" finished-at="2022-08-08T18:57:24 GMT-04:00" duration-ms="10604" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[.email@emaildom.com]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='flash alert_danger']"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'Heamanths-MacBook-Pro.local', ip: '2601:cb:4002:f600:0:0:0:8c86%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae1cf77cba7d31be43f4eb385a87eefa, findElement {using=xpath, value=//div[@class='flash alert_danger']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/pw/4093ysp9371...}, goog:chromeOptions: {debuggerAddress: localhost:58277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:58277/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ae1cf77cba7d31be43f4eb385a87eefa]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='flash alert_danger']"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'Heamanths-MacBook-Pro.local', ip: '2601:cb:4002:f600:0:0:0:8c86%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae1cf77cba7d31be43f4eb385a87eefa, findElement {using=xpath, value=//div[@class='flash alert_danger']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/pw/4093ysp9371...}, goog:chromeOptions: {debuggerAddress: localhost:58277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:58277/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ae1cf77cba7d31be43f4eb385a87eefa
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+at app.test.main.TestingFieldEmail.TS1_Email_TC3_NegativeDataInField(TestingFieldEmail.java:84)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC3_NegativeDataInField -->
+        <test-method signature="TS1_Email_TC3_NegativeDataInField(java.lang.String)[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:24 GMT-04:00" name="TS1_Email_TC3_NegativeDataInField" data-provider="testdata_TS1_Email_TC3_NegativeDataInField" finished-at="2022-08-08T18:57:24 GMT-04:00" duration-ms="602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[example.@email.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS1_Email_TC3_NegativeDataInField -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:app.test.main.TestingFieldEmail@437da279]" started-at="2022-08-08T18:57:24 GMT-04:00" name="closeBrowser" finished-at="2022-08-08T18:57:24 GMT-04:00" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- app.test.main.TestingFieldEmail -->
+    </test> <!-- Shoe store -->
+  </suite> <!-- Funtional tests -->
+</testng-results>

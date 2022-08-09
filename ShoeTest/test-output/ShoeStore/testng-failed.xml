@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ShoeStore]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Functional Flow(failed)">
+    <classes>
+      <class name="app.test.main.TestingSearchBybrand">
+        <methods>
+          <include name="TS3_ChooseBrand_TC3_SearchByBrandWithlist"/>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- app.test.main.TestingSearchBybrand -->
+    </classes>
+  </test> <!-- Functional Flow(failed) -->
+</suite> <!-- Failed suite [ShoeStore] -->

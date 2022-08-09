@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Funtional tests]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Shoe store(failed)">
+    <classes>
+      <class name="app.test.main.TestingFieldEmail">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="TS1_Email_TC3_NegativeDataInField" invocation-numbers="2 3"/>
+        </methods>
+      </class> <!-- app.test.main.TestingFieldEmail -->
+    </classes>
+  </test> <!-- Shoe store(failed) -->
+</suite> <!-- Failed suite [Funtional tests] -->

@@ -1,0 +1,37 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Funtional tests">
+	<test name="Shoe store">
+		<classes>
+			<class name="app.test.main.TestingFieldEmail">
+				<methods>
+					<include name="TS1_Email_TC1_Emptyfield"></include>
+					<include name="TS1_Email_TC2_PositiveDataInField"></include>
+					<include name="TS1_Email_TC3_NegativeDataInField"></include>
+				</methods>
+			 </class>
+			<class name="app.test.main.TestingFieldPromoCode">
+				<methods>
+					<include name="TS2_PromCode_TC1_Emptyfield"></include>
+					<include name="TS2_PromCode_TC3_NegativeDataInField"></include>
+					<include name="TS2_PromCode_TC3_NegativeDataInField"></include>
+				</methods>
+			</class>
+			<class name="app.test.main.TestingSearchBybrand">
+				<methods>
+					<include name="TS3_ChooseBrand_TC1_Emptyfield"></include>
+					<include name="TS3_ChooseBrand_TC2_SearchByBrandNolist"></include>
+					<include name="TS3_ChooseBrand_TC3_SearchByBrandWithlist"></include>
+					<include name="TS3_ChooseBrand_TC4_DropDownDataValidation"></include>
+					<include
+						name="TS3_ChooseBrand_TC5_DropDownValueKeyboardAccesible"></include>
+				</methods>
+			</class>
+			<class name="app.test.main.TestingMonthFilter">
+				<methods>
+					<include name="TS4_MonthFilter_TC1_SelectingMonth"></include>
+					<include name="TS4_MonthFilter_TC2_SelectingAllShoesOption"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
